@@ -9,5 +9,8 @@ Cyclejs is Good; Run cyclejs app in seconds
 ## Run
 `gulp`
 
+## Screenshot
+![image](https://cloud.githubusercontent.com/assets/443965/20223177/a81aa7de-a87b-11e6-98d2-5c638b17da54.png)
+
 ## License
 MIT
